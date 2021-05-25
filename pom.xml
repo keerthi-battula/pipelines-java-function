@@ -20,10 +20,10 @@
         <functionAppRegion>westus</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
         <functionResourceGroup>java-functions-group</functionResourceGroup>*/
-        <functionAppName>FUNCTION_APP_NAME</functionAppName>
-        <functionAppRegion>REGION</functionAppRegion>
+        <functionAppName>appfunction98</functionAppName>
+        <functionAppRegion>westeurope</functionAppRegion>
         <stagingDirectory>${project.build.directory}/azure-functions/${functionAppName}</stagingDirectory>
-        <functionResourceGroup>RESOURCE_GROUP</functionResourceGroup>
+        <functionResourceGroup>myapp-rg</functionResourceGroup>
     </properties>
 
     <repositories>
